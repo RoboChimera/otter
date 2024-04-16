@@ -10,7 +10,15 @@ td,th {
 }
 
 tr:nth-child(odd) {
+		background-color: #1d2021;
+}
+
+tr:first-child {
 		background-color: #282828;
+}
+
+td:first-child {
+		border-right: solid 1px #000a;
 }
 
 table a {
