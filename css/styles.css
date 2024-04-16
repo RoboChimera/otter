@@ -1,24 +1,27 @@
+:root {
+		--stroke: 2px solid #ebdbb2;
+}
+
 body {
 	background-image: linear-gradient(#282828, #000);
 	color: #ebdbb2;
 	font-weight: 500;
 	line-height: 1.5;
 	margin-top: 2rem;
-	min-height: 100vh;
-	max-width: 50em;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
+	max-width: 69ch;
+	padding-inline: 1.25rem;
 }
 
 #head {
 	text-align: center;
-	border-bottom: 2px solid #ebdbb2;
+	border-bottom: var(--stroke);
 	margin-top: 2rem;
 }
 
 #tail {
 	text-align: center;
-	border-top: 2px solid #ebdbb2;
+	border-top: var(--stroke);
 	margin-bottom: 2rem;
 }
 
@@ -31,7 +34,7 @@ body {
 
 #body .logo {
 	font-size: 10em;
-	margin: 0;
+	margin-bottom: 2rem;
 	text-align: center;
 }
 
