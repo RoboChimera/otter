@@ -28,16 +28,17 @@ body {
 	font-size: 24px;
 }
 
-#body .logo {
-	font-size: 10em;
-	margin-bottom: 2rem;
-	text-align: center;
-}
-
 #head a {
 		text-decoration: none;
 		color: #ebdbb2;
 		margin-left: 2em;
+		margin-right: 2em;
+}
+
+#body .logo {
+	font-size: 10em;
+	margin-bottom: 2rem;
+	text-align: center;
 }
 
 #body img {
