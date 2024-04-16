@@ -1,12 +1,16 @@
 body {
-    background-color: black;
-	color: #ebdbb2;
-	font-weight: 500;
-	line-height: 1.5;
-	margin-top: 2rem;
-	margin: auto;
-	max-width: 69ch;
-	padding-inline: 1.25rem;
+		background-color: #000;
+		background-image: -webkit-linear-gradient(top, #282828, #000);
+		background-image: -moz-linear-gradient(top, #282828, #000);
+		background-image: -ms-webkit-linear(top, #282828, #000);
+		background-image: -o-webkit-linear(top, #282828, #000);
+		color: #ebdbb2;
+		font-weight: 500;
+		line-height: 1.5;
+		margin-top: 2rem;
+		margin: auto;
+		max-width: 69ch;
+		padding-inline: 1.25rem;
 }
 
 #head {
@@ -37,7 +41,7 @@ body {
 
 #body .logo {
 	font-size: 10em;
-	margin-bottom: 2rem;
+	margin: 0;
 	text-align: center;
 }
 
