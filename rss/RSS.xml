@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="0.91">
 		<channel>
 				<title>Otter's Website</title>
 				<link>https://robochimera.github.io/otter</link>
@@ -15,27 +14,27 @@
 				</image>
 				<item>
 						<title>HTML3.2/NO-CSS: This Computer will blow your legs off and give you a wee surprise under the table OMG must click! :OOO </title>
-						<url>https://robochimera.github.io/otter/no-css/docs/diary/04172024.html</url>
+						<link>https://robochimera.github.io/otter/no-css/docs/diary/04172024.html</link>
 				</item>
 				<item>
 						<title>This Computer will blow your legs off and give you a wee surprise under the table OMG must click! :OOO </title>
-						<url>https://robochimera.github.io/otter/otter-documents/diary/04172024.html</url>
+						<link>https://robochimera.github.io/otter/otter-documents/diary/04172024.html</link>
 				</item>
 				<item>
 						<title>HTML3.2/NO-CSS: Website thingy updoot</title>
-						<url>https://robochimera.github.io/otter/no-css/docs/diary/04162024.html</url>
+						<link>https://robochimera.github.io/otter/no-css/docs/diary/04162024.html</link>
 				</item>
 				<item>
 						<title>Website thingy updoot</title>
-						<url>https://robochimera.github.io/otter/otter-documents/diary/04162024.html</url>
+						<link>https://robochimera.github.io/otter/otter-documents/diary/04162024.html</link>
 				</item>
 				<item>
 						<title>HTML3.2/NO-CSS: A device I got that I suprisingly found cool and decided to do some cool stuff with it using cool stuff</title>
-						<url>https://robochimera.github.io/otter/no-css/docs/diary/03212024.html</url>
+						<link>https://robochimera.github.io/otter/no-css/docs/diary/03212024.html</link>
 				</item>
 				<item>
 						<title>A device I got that I suprisingly found cool and decided to do some cool stuff with it using cool stuff</title>
-						<url>https://robochimera.github.io/otter/otter-documents/diary/03212024.html</url>
+						<link>https://robochimera.github.io/otter/otter-documents/diary/03212024.html</link>
 				</item>
 		</channel>
 </rss>
