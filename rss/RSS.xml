@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-		<channel>
+		<channel rel="self">
 				<title>Otter's Website</title>
 				<link>https://robochimera.github.io/otter</link>
 				<description>The best blog made by the coolest otter with a HTML 3.2 option</description>
 				<language>en-us</language>
 				<image>
-						<title>Otter</title>
-						<url>https://robochimera.github.io/otter/imagoes/software.png</url>
+						<title>Otter's Website</title>
+						<link>https://robochimera.github.io/otter/imagoes/software.png</link>
 						<width>88</width>
 						<height>31</height>
 						<description>HTML 3.2 Version</description>
