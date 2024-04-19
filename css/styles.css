@@ -17,6 +17,8 @@ body {
 	text-align: center;
 	border-bottom: 2px solid #ebdbb2;
 	margin-top: 2rem;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
 }
 
 #tail {
@@ -28,15 +30,13 @@ body {
 #head p {
 	display: inline-flex;
 }
-#head p.logo {
-	font-size: 24px;
-}
 
 #head a {
 		text-decoration: none;
 		color: #ebdbb2;
 		margin-left: 2em;
 		margin-right: 2em;
+		margin-top: 10em;
 }
 
 #body .logo {
