@@ -34,9 +34,7 @@ body {
 #head a {
 		text-decoration: none;
 		color: #ebdbb2;
-		margin-left: 2em;
-		margin-right: 2em;
-		margin-top: 10em;
+		margin: 10em 0.5em 0;
 }
 
 #body .logo {
