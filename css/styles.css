@@ -1,14 +1,14 @@
 body {
-		background-color: #000;
-		background-image: -webkit-linear-gradient(top, #282828, #000);
-		background-image: -moz-linear-gradient(top, #282828, #000);
-		background-image: -ms-webkit-linear(top, #282828, #000);
-		background-image: -o-webkit-linear(top, #282828, #000);
+		background-color: #000000;
+		background-image: -webkit-linear-gradient(top, #282828, #000000);
+		background-image: -moz-linear-gradient(top, #282828, #000000);
+		background-image: -ms-webkit-linear(top, #282828, #000000);
+		background-image: -o-webkit-linear(top, #282828, #000000);
 		color: #ebdbb2;
 		font-weight: 500;
 		line-height: 1.5;
-		margin-top: 2rem;
 		margin: auto;
+		margin-top: 2rem;
 		max-width: 69ch;
 		padding-inline: 1.25rem;
 }
@@ -27,14 +27,12 @@ body {
 	margin-bottom: 2rem;
 }
 
-#head p {
-	display: inline-flex;
-}
-
 #head a {
+		display: inline-flex;
 		text-decoration: none;
 		color: #ebdbb2;
-		margin: 10em 0.5em 0;
+		margin-left: 1.5em;
+		margin-right: 1.5em;
 }
 
 #body .logo {
